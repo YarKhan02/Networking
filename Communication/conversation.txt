@@ -1,0 +1,10 @@
+Client: hello
+Server: hi
+Client: how are you
+Server: very well
+Client: which anime are you watching nowdays
+Server: attack on titan
+Client: peak anime of human history
+Server: it is a masterpiece
+Client: how long it took you to complete it
+Server: 5 days non stop
